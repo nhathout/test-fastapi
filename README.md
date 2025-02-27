@@ -1,2 +1,2 @@
 # test-fastapi
-Going through the FastAPI tutorial.
+FastAPI tutorial powered by EC530
